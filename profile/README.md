@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Website-ScaffoldStark.com-blue?style=flat-square&logo=google-chrome" alt="Website">
 </a>
 <a href="https://github.com/Quantum3-Labs/scaffold-stark-2">
-<img src="https://img.shields.io/badge/GitHub-Quantum3--Labs-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Scaffold--Stark-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://t.me/+wO3PtlRAreo4MDI9">
 <img src="https://img.shields.io/badge/Telegram-Group%20Chat-blue?style=flat-square&logo=telegram" alt="Telegram">
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/ScaffoldStark-black?style=flat-square&logo=x&logoColor=white" alt="X">
 </a>
 <a href="https://www.speedrunstark.com/">
-<img src="https://img.shields.io/badge/Speedrun%20Stark-Explore%20Challenges-orange?style=flat-square&logo=target" alt="Speedrun Stark">
+<img src="https://img.shields.io/badge/Speedrun%20Stark-%20Challenges-orange?style=flat-square&logo=target" alt="Speedrun Stark">
 </a>
 </p>
 
