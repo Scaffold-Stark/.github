@@ -27,7 +27,7 @@ Scaffold-Stark is an open-source, up-to-date toolkit for building decentralized 
 ---
 
 ## 🚀 Tools and Features
-- [Starknet-Devnet-rs](https://github.com/0xSpaceShard/starknet-devnet-rs): Local Starknet network for testing.
+- [Starknet-Devnet](https://0xspaceshard.github.io/starknet-devnet/): Local Starknet network for testing.
 - [Scarb](https://docs.swmansion.com/scarb/): Build and compile smart contracts.
 - [StarknetJS](https://www.starknetjs.com/docs/guides/intro): Low-level interface for interacting with Starknet smart contracts.
 - [Starknet-React](https://starknet-react.com/docs/getting-started): React hooks for simplifying smart contract interactions.
