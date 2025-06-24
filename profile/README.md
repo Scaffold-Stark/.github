@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./ScaffoldStark.png" alt="The Scaffold Stark">
+<img width="1144" alt="image" src="https://github.com/user-attachments/assets/cf771d79-2138-4171-b195-d44a49cc1a63" />
 </p>
 
 <h1 align="center">Scaffold Stark</h1>
