@@ -8,7 +8,7 @@
 <a href="https://scaffoldstark.com">
 <img src="https://img.shields.io/badge/Website-ScaffoldStark.com-blue?style=flat-square&logo=google-chrome" alt="Website">
 </a>
-<a href="https://github.com/Quantum3-Labs/scaffold-stark-2">
+<a href="https://github.com/Scaffold-Stark/scaffold-stark-2">
 <img src="https://img.shields.io/badge/GitHub-Scaffold--Stark-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://t.me/+wO3PtlRAreo4MDI9">
